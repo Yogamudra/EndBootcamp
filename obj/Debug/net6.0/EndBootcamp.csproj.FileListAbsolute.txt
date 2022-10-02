@@ -1,0 +1,15 @@
+C:\IT\C#\Total\EndBootcamp\bin\Debug\net6.0\EndBootcamp.exe
+C:\IT\C#\Total\EndBootcamp\bin\Debug\net6.0\EndBootcamp.deps.json
+C:\IT\C#\Total\EndBootcamp\bin\Debug\net6.0\EndBootcamp.runtimeconfig.json
+C:\IT\C#\Total\EndBootcamp\bin\Debug\net6.0\EndBootcamp.dll
+C:\IT\C#\Total\EndBootcamp\bin\Debug\net6.0\EndBootcamp.pdb
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.csproj.AssemblyReference.cache
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.AssemblyInfoInputs.cache
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.AssemblyInfo.cs
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.csproj.CoreCompileInputs.cache
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.dll
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\refint\EndBootcamp.dll
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.pdb
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\EndBootcamp.genruntimeconfig.cache
+C:\IT\C#\Total\EndBootcamp\obj\Debug\net6.0\ref\EndBootcamp.dll
